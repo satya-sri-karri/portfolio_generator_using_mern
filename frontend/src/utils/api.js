@@ -3,7 +3,7 @@
  * Base URL uses React's proxy: /api → http://localhost:5000/api
  */
 
-const BASE = "/api";
+const BASE = process.env.REACT_APP_API_URL || "/api";
 
 // Helper: build headers with optional JWT
 const headers = (token) => {
