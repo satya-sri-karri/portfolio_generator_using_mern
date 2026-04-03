@@ -1,4 +1,4 @@
-# 🚀 AI Portfolio Generator v2 — MERN Stack
+# 🚀 AI Portfolio Generator — MERN Stack
 
 A full-stack **MERN** application where developers can register, login, and generate beautiful shareable portfolio websites.
 
