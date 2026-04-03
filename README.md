@@ -2,9 +2,7 @@
 
 A full-stack **MERN** application where developers can register, login, and generate beautiful shareable portfolio websites.
 
----
 
-## ✨ What's New in v2
 
 | Feature | Description |
 |---------|-------------|
@@ -84,11 +82,10 @@ ai-portfolio-generator-v2/
 | **Styling** | Pure CSS with CSS Variables (no Tailwind) |
 | **HTTP** | Native `fetch()` API (no Axios) |
 
-> ✅ **Pure MERN** — no external UI libraries. Everything built from scratch.
 
 ---
 
-## ⚡ Quick Setup
+Setup
 
 ### Step 1 — Install dependencies
 ```bash
